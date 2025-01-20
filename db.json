@@ -1,0 +1,309 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Fernando Hungaro",
+      "email": "fernandohungaro@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "2",
+      "name": "Rafael Miralha",
+      "email": "rafamiralha1@gmail.com",
+      "password": "987654321"
+    },
+    {
+      "id": "c24d",
+      "name": "Lucas Vieira",
+      "email": "lucas.vieira@gmail.com",
+      "password": "12345678",
+      "terms": true
+    },
+    {
+      "id": "fd75",
+      "name": "Guilherme",
+      "email": "gui@farias.com",
+      "password": "12341234",
+      "terms": true
+    },
+    {
+      "id": "c6d3",
+      "name": "Guilherme ",
+      "email": "Guilehre@gui.com",
+      "password": "121321123123",
+      "terms": true
+    }
+  ],
+  "saldos": [
+    {
+      "id": "1",
+      "idUser": "1",
+      "contaCorrente": 1500,
+      "contaInvestimentos": [
+        {
+          "rendaFixa": 30000,
+          "rendaVariavel": 26000
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "idUser": "2",
+      "contaCorrente": 5000,
+      "contaInvestimentos": [
+        {
+          "rendaFixa": 25000,
+          "rendaVariavel": 15000
+        }
+      ]
+    },
+    {
+      "id": "447a",
+      "idUser": "c24d",
+      "contaCorrente": 0,
+      "contaInvestimentos": []
+    },
+    {
+      "id": "44f8",
+      "idUser": "fd75",
+      "contaCorrente": 12608.1,
+      "contaInvestimentos": []
+    }
+  ],
+  "depositos": [
+    {
+      "id": "2",
+      "idUser": "2",
+      "label": "deposito",
+      "valor": 200,
+      "data": "2023-11-19"
+    },
+    {
+      "id": "0.22938457192998674",
+      "idUser": "2",
+      "label": "emprestimo",
+      "valor": 500,
+      "data": "2024-11-10"
+    },
+    {
+      "id": "0.8855915394579899",
+      "idUser": "2",
+      "label": "debito",
+      "valor": 2000,
+      "data": "2024-09-10"
+    },
+    {
+      "id": "0.2530485356815827",
+      "idUser": "fd75",
+      "label": "doc/ted",
+      "valor": 8000,
+      "data": "2025-01-03"
+    },
+    {
+      "id": "0.22909228339896082",
+      "idUser": "fd75",
+      "label": "emprestimo",
+      "valor": 20000,
+      "data": "2025-01-03"
+    },
+    {
+      "id": "0.013340153220839479",
+      "idUser": "fd75",
+      "label": "deposito",
+      "valor": 100000,
+      "data": "2025-01-03"
+    },
+    {
+      "id": "0.6846570102381969",
+      "idUser": "fd75",
+      "label": "debito",
+      "valor": 10000,
+      "data": "2025-01-03"
+    },
+    {
+      "id": "0.21379110460769413",
+      "idUser": "fd75",
+      "label": "deposito",
+      "valor": 10090,
+      "data": "2025-01-03"
+    },
+    {
+      "id": "0.3835790940792725",
+      "idUser": "fd75",
+      "label": "credito",
+      "valor": 50000,
+      "data": "2025-01-03"
+    },
+    {
+      "id": "0.38899754893878624",
+      "idUser": "fd75",
+      "label": "cambio",
+      "valor": 14000,
+      "data": "2025-01-03"
+    },
+    {
+      "id": "0.5551493952812707",
+      "idUser": "fd75",
+      "label": "deposito",
+      "valor": 50090,
+      "data": "2025-01-09"
+    },
+    {
+      "id": "0.3861040058646874",
+      "idUser": "fd75",
+      "label": "deposito",
+      "valor": 12000,
+      "data": "2025-01-08"
+    },
+    {
+      "id": "0.04132413720932915",
+      "idUser": "fd75",
+      "label": "credito",
+      "valor": 22000,
+      "data": "2025-01-09"
+    },
+    {
+      "id": "0.02678759044128376",
+      "idUser": "fd75",
+      "label": "doc/ted",
+      "valor": 10000,
+      "data": "2025-01-09"
+    },
+    {
+      "id": "0.23776661860619597",
+      "idUser": "fd75",
+      "label": "deposito",
+      "valor": 55000,
+      "data": "2025-01-09"
+    },
+    {
+      "id": "0.752353115035137",
+      "idUser": "c24d",
+      "label": "debito",
+      "valor": 50000,
+      "data": "2025-01-06"
+    },
+    {
+      "id": "0.42859979635240997",
+      "idUser": "1",
+      "label": "deposito",
+      "valor": 156600,
+      "data": "2025-01-30"
+    },
+    {
+      "id": "0.39808803542082827",
+      "idUser": "1",
+      "label": "deposito",
+      "valor": 15500,
+      "data": "2025-01-12"
+    },
+    {
+      "id": "0.5152324786833204",
+      "idUser": "1",
+      "label": "credito",
+      "valor": 16000,
+      "data": "2025-01-12"
+    },
+    {
+      "id": "0.026859078243018475",
+      "idUser": "1",
+      "label": "cambio",
+      "valor": 10000,
+      "data": "2025-01-12"
+    },
+    {
+      "id": "0.7447713040680932",
+      "idUser": "1",
+      "label": "debito",
+      "valor": 10212,
+      "data": "2025-01-12"
+    },
+    {
+      "id": "0.03468576091208986",
+      "idUser": "1",
+      "label": "doc/ted",
+      "valor": 102212,
+      "data": "2025-01-12"
+    },
+    {
+      "id": "0.5050122125819951",
+      "idUser": "1",
+      "label": "deposito",
+      "valor": 212122,
+      "data": "2025-01-12"
+    },
+    {
+      "id": "0.8142515022077612",
+      "idUser": "1",
+      "label": "cambio",
+      "valor": 1000,
+      "data": "2025-01-12"
+    },
+    {
+      "id": "0.6731132124669081",
+      "idUser": "1",
+      "label": "deposito",
+      "valor": 15000,
+      "data": "2025-01-14"
+    },
+    {
+      "id": "0.32451759102172173",
+      "idUser": "1",
+      "label": "doc/ted",
+      "data": "2025-01-20",
+      "valor": 1500,
+      "documentsUrl": [
+        "http://localhost:3004/uploads/1737385853499-206974228.pdf",
+        "http://localhost:3004/uploads/1737385853572-679935061.jpeg"
+      ]
+    },
+    {
+      "id": "0.8951591261650138",
+      "idUser": "1",
+      "label": "cambio",
+      "valor": 5500,
+      "data": "2025-01-20",
+      "documentsUrl": [
+        "http://localhost:3004/uploads/1737394603102-908948117.pdf"
+      ]
+    }
+  ],
+  "cartoes": [
+    {
+      "id": "1",
+      "idUser": "1",
+      "nameCartao": "Fernando Hungaro",
+      "number": "1234123412341234",
+      "type": "digital",
+      "function": "credito",
+      "status": true
+    },
+    {
+      "id": "2",
+      "idUser": "1",
+      "nameCartao": "Fernando Hungaro",
+      "number": "4321432143214321",
+      "type": "fisico",
+      "function": "debito",
+      "status": false
+    },
+    {
+      "id": "1",
+      "idUser": "fd75",
+      "nameCartao": "Guilherme",
+      "number": "1234123412341234",
+      "type": "digital",
+      "function": "credito",
+      "status": true
+    },
+    {
+      "id": "2",
+      "idUser": "fd75",
+      "nameCartao": "Guilherme",
+      "number": "4321432143214321",
+      "type": "fisico",
+      "function": "debito",
+      "status": false
+    }
+  ]
+}
